@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-## Before that to install [node_modules](https://docs.npmjs.com/cli/v8/commands/npm-install), you can run: 
+Before that to install [node_modules](https://docs.npmjs.com/cli/v8/commands/npm-install), you can run: 
 
 ### `npm i`
 
